@@ -4,5 +4,5 @@
 
 
 
-[nocTools](https://65007.github.io/nocTools/) (tools for Network Operations and/or Monitoring people)
+[nocTools](http://github.65007.net/nocTools/) (tools for Network Operations and/or Monitoring people)
 
